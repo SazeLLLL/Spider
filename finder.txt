@@ -1,45 +1,45 @@
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-1.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-2.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-3.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-4.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-5.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES 1.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES 2.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES 3.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES 4.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES 5.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES 6.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/ANARCHIA.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/FUNCRAFT.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/BANBOX.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MAJKRAFCI.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/FajneMC.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Nusi.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/NusiV2.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/NinjaBox.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/AppleMC.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/4FUNRP.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/POPMC.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/TickMC.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/4LAST.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_1.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_2.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_3.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_4.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_5.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_6.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_7.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_8.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_9.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_10.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/VapeDatabase.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Scumbags - Teamspeak.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/ppdnetservdata.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/ARKANIAZ_mds.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/4FUNRP.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Aternosy_PLv2.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Aternosy_Polskie.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/BattleAdventure.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/HiverCraft.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/LordFight.txt
-https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Paladium.txt
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-1.txt RAPY-1
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-2.txt RAPY-2
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-3.txt RAPY-3
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-4.txt RAPY-4
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/RAPY-5.txt RAPY-5
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES%201.txt McStyles 1
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES%202.txt McStyles 2
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES%203.txt McStyles 3
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES%204.txt McStyles 4
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES%205.txt McStyles 5
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MCSTYLES%206.txt McStyles 6
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/ANARCHIA.txt ANARCHIA
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/FUNCRAFT.txt FUNCRAFT
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/BANBOX.txt BANBOX
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/MAJKRAFCI.txt MAJKRAFCI
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/FajneMC.txt FajneMC
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Nusi.txt Nusi
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/NusiV2.txt Nusi v2
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/NinjaBox.txt NinjaBox
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/AppleMC.txt AppleMC
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/4FUNRP.txt 4FUNRP
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/POPMC.txt POPMC
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/TickMC.txt TickMC
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/4LAST.txt 4LAST
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_1.txt BLURKIT 1
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_2.txt BLURKIT 2
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_3.txt BLURKIT 3
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_4.txt BLURKIT 4
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_5.txt BLURKIT 5
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_6.txt BLURKIT 6
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_7.txt BLURKIT 7
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_8.txt BLURKIT 8
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_9.txt BLURKIT 9
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/blurkit_10.txt BLURKIT 10
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/VapeDatabase.txt VapeDatabase
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Scumbags%20-%20Teamspeak.txt Scumbags Teamspeak
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/ppdnetservdata.txt ppdnetservdata
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/ARKANIAZ_mds.txt ARKANIAZ_mds
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/4FUNRP.txt 4FUNRP
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Aternosy_PLv2.txt Aternosy_PLv2
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Aternosy_Polskie.txt Aternosy_Polskie
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/BattleAdventure.txt BattleAdventure
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/HiverCraft.txt HiverCraft
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/LordFight.txt LordFight
+https://raw.githubusercontent.com/SazeLLLL/ip/refs/heads/main/Paladium.txt Paladium
